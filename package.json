@@ -1,8 +1,9 @@
 {
-  "name": "randomcolor",
+  "name": "randomcolor.es",
   "version": "0.6.2",
   "description": "A tiny script for generating attractive random colors",
-  "main": "randomColor.js",
+  "main": "randomcolor.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git://github.com/davidmerfield/randomColor.git"
